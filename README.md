@@ -24,14 +24,12 @@ docker-compose up --build
 
 ## 🏗️ Project Structure
 
-```
 src/
 ├── ECommerce.Domain/          # Domain entities, value objects, exceptions
 ├── ECommerce.Application/     # Business logic, services, DTOs
 ├── ECommerce.Infrastructure/  # External services, repositories, data access
 ├── ECommerce.Api/            # Web API controllers, middleware
 └── ECommerce.Tests/          # Unit and integration tests
-```
 
 
 ### External Services
