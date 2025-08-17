@@ -1,0 +1,5 @@
+@ECommerce.Api_HostAddress = http://localhost:5064
+
+Accept: application/json
+
+###
